@@ -4,7 +4,7 @@ This project uses **YOLOv8** to detect hand gestures corresponding to the classi
 
 ---
 
-## 🚀 Features
+## Features
 
 - ✅ Trained YOLOv8s model for gesture detection.
 - ✅ Custom annotated dataset (Rock, Paper, Scissors).
@@ -13,7 +13,7 @@ This project uses **YOLOv8** to detect hand gestures corresponding to the classi
 
 ---
 
-## 🛠 Installation
+## Installation
 
 ```bash
 pip install ultralytics==8.0.43 ultralyticsplus==0.0.28
